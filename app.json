@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Calculiator",
+    "slug": "Calculiator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Apple_Hesap_makinesi_Calculator-icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/Apple_Hesap_makinesi_Calculator-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.bilolchik.Calculiator"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "caa92168-bf09-4b83-b412-6d8a99f8808b"
+      }
+    }
+  }
+}
